@@ -24,7 +24,7 @@ English | [한국어](README.md)
 - (2023) 19th TOPCIT Regular Evaluation, Top Scorer (2nd Place in the ROK Air Force) [**ROK Air Force Chief of Information and Planning Staff Award**]
 - (2023) Outstanding Learning Case for 2023 Academic Credit Bank System Degree Recipients [**National Institute for Lifelong Education President's Award**] [Link](https://www.cb.or.kr/ebook/2022/collection/index.html?startpage=25&doublepage=false)
 - (2022) 18th TOPCIT Regular Evaluation, Top Scorer (1st Place in the ROK Air Force) [**ROK Air Force Chief of Staff Award**]
-- (2022) 44th Air Force Information and Communications Competition, Excellence in Cyber Defense [**ROK Air Force Education and Training Commander's Award**]
+- (2022) 44th Air Force Information and Communications Competition, Excellence in Cyber Defense (CTF) [**ROK Air Force Education and Training Commander's Award**]
 
 ### 🚩 Extracurricular Activities
 
