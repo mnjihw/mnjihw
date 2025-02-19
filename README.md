@@ -46,7 +46,7 @@
 
 ### 📘 Studying
 
-- [OSED](https://www.offsec.com/courses/exp-301) (Offensive Security Exploit Developer) course _(Dec 2024 - Present)_
+- [OSED](https://www.offsec.com/courses/exp-301) (OffSec Exploit Developer) course _(Dec 2024 - Present)_
   - Bypassing security mechanisms such as ASLR and DEP
   - Exploiting SEH overwrites and format string attacks
   - Developing and optimizing custom shellcode
